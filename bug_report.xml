@@ -1,0 +1,17 @@
+<BugReports>
+  <BugReport>
+    <ID>1</ID>
+    <Description>The website homepage does not load correctly.</Description>
+    <Severity>High</Severity>
+  </BugReport>
+  <BugReport>
+    <ID>2</ID>
+    <Description>The shopping cart is not working properly.</Description>
+    <Severity>Medium</Severity>
+  </BugReport>
+  <BugReport>
+    <ID>3</ID>
+    <Description>The search bar is not displaying the correct results.</Description>
+    <Severity>Low</Severity>
+  </BugReport>
+</BugReports>
