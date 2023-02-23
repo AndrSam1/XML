@@ -1,0 +1,7 @@
+<Person>
+    <Name>Иван Иванов</Name>
+    <Age>32</Age>
+    <Pets>2</Pets>
+    <Salary>40000</Salary>
+</Person>
+
