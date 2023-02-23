@@ -9,9 +9,4 @@
     <Description>The shopping cart is not working properly.</Description>
     <Severity>Medium</Severity>
   </BugReport>
-  <BugReport>
-    <ID>3</ID>
-    <Description>The search bar is not displaying the correct results.</Description>
-    <Severity>Low</Severity>
-  </BugReport>
 </BugReports>
